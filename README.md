@@ -1,6 +1,6 @@
 # 🌤️ Weather-App
 
-Classy Weather is a simple weather forecast application built using **React**. It fetches weather information based on user input and displays current weather conditions for a specified location using data from the Open-Meteo API.
+Weather App is a simple weather forecast application built using **React**. It fetches weather information based on user input and displays current weather conditions for a specified location using data from the Open-Meteo API.
 
 ## 🚀 Features
 
