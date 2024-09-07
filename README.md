@@ -85,7 +85,3 @@ src/
 ## 💬 Feedback
 
 If you have any feedback or suggestions, feel free to open an issue or submit a pull request!
-
----
-
-This README introduces the project, provides setup instructions, and describes the main features and structure of your app.
